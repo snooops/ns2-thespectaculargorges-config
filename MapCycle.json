@@ -1,0 +1,32 @@
+{
+    "time": 15,
+    "mode": "order",
+    "maps":
+    [
+        {"map": "ns2_summit"},
+        {"map": "ns2_tram"},
+        {"map": "ns2_veil"},
+        {"map": "ns2_docking"},
+        {"map": "ns2_unearthed"},
+        {"map": "ns2_caged"},
+        {"map": "ns2_mineshift"},
+        {"map": "ns2_biodome"},
+        {"map": "ns2_jambi"},
+		{"map": "co_kestrel", "mods": ["520abdce", "5c416ce7"]}
+		{"map" : "co_volcanodrop", "mods" : [ "692d1e72", "520abdce" ],
+		}
+    ],
+	"mods":
+	[
+		"334982d2",
+		"706d242",
+		"235ee3a6",
+		"b7149f9",
+		"c6fbbb0",
+		"358e0fb5",
+		"4384B7FE",
+		"33c898b2",
+		"72c5fd4e",
+		"744eb9f4"
+	]
+}

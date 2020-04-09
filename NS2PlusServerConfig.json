@@ -1,0 +1,13 @@
+{
+  "modupdaterreminderinterval":5,
+  "endstatsteambreakdown":true,
+  "allow_nsllights":true,
+  "modupdater":true,
+  "allow_deathstats":true,
+  "allow_ambient":true,
+  "autodisplayendstats":true,
+  "allow_drawviewmodel":false,
+  "modupdatercheckinterval":15,
+  "allow_mapparticles":true,
+  "savestats":false
+}

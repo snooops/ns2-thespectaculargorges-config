@@ -1,0 +1,13 @@
+{
+	"groups":
+	{
+		"admins": { "type": "allowed", "commands": [ "sv_changemap", "sv_reset", "sv_say" ] },
+		"mods": { "type": "allowed", "commands": [ "sv_ban", "sv_reset" ] },
+		"specgorges": { "type": "allowed", "commands": [ ] }
+	},
+
+	"users":
+	{
+		"snooops": { "id": 433859, "groups": ["admins", "mods", "specgorges" ] } 
+	}
+}

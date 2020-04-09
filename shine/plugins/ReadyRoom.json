@@ -1,0 +1,9 @@
+{
+    "DisableSpectate": false,
+    "MaxIdleTime": 120,
+    "NotifyOnTeamForce": true,
+    "TimeToBlockF4": 120,
+    "TrackOnRoundStart": true,
+    "TrackReadyRoomPlayers": true,
+    "__Version": "1.0"
+}

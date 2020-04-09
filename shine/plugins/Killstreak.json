@@ -1,0 +1,79 @@
+{
+    "AlienColour": [ 255, 125, 0 ],
+    "MarineColour": [ 0, 125, 255 ],
+    "SendSounds": false,
+    "StoppedMsg": "%s has been stopped by %s ",
+    "StoppedValue": 5,
+    "Streaks": {
+        "3": {
+            "Sound": "Triplekill",
+            "Text": "%s is on a triple kill!"
+        },
+        "5": {
+            "Sound": "Multikill",
+            "Text": "%s is on multikill!"
+        },
+        "6": {
+            "Sound": "Rampage",
+            "Text": "%s is on rampage!"
+        },
+        "7": {
+            "Sound": "Killingspree",
+            "Text": "%s is on a killing spree!"
+        },
+        "9": {
+            "Sound": "Dominating",
+            "Text": "%s is dominating!"
+        },
+        "11": {
+            "Sound": "Unstoppable",
+            "Text": "%s is unstoppable!"
+        },
+        "13": {
+            "Sound": "Megakill",
+            "Text": "%s made a mega kill!"
+        },
+        "15": {
+            "Sound": "Ultrakill",
+            "Text": "%s made an ultra kill!"
+        },
+        "17": {
+            "Sound": "Ownage",
+            "Text": "%s owns!"
+        },
+        "18": {
+            "Sound": "Ludicrouskill",
+            "Text": "%s made a ludicrouskill!"
+        },
+        "19": {
+            "Sound": "Headhunter",
+            "Text": "%s is a head hunter!"
+        },
+        "20": {
+            "Sound": "Whickedsick",
+            "Text": "%s is whicked sick!"
+        },
+        "21": {
+            "Sound": "Monsterkill",
+            "Text": "%s made a monster kill!"
+        },
+        "23": {
+            "Sound": "Holyshit",
+            "Text": "Holy Shit! %s got another one!"
+        },
+        "25": {
+            "Sound": "Godlike",
+            "Text": "%s is G o d L i k e !!!"
+        },
+        "27": 25,
+        "30": 25,
+        "34": 25,
+        "40": 25,
+        "48": 25,
+        "58": 25,
+        "70": 25,
+        "80": 25,
+        "100": 25
+    },
+    "__Version": "1.0"
+}

@@ -1,0 +1,15 @@
+334982d2	NS2+
+706d242 	Shine NS2
+13f20431 	Shine Combat
+72c5fd4e	Shine Tier Info
+c6fbbb0		Shine Epsilon
+235ee3a6	Shine Wonitor
+358e0fb5	Shine Discord Bridge
+b7149f9		Badges+
+33c898b2	Mod Panels
+40E9F8C8	NSL Team Badges
+4384B7FE	Enhanced Spectator
+520abdce	NS2 Combat
+744eb9f4	Buy menu
+5c416ce7	co_kestrel
+692d1e72	co_volcanodrop

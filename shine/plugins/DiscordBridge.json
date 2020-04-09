@@ -1,0 +1,15 @@
+{
+    "DiscordBridgeURL": "http://localhost:17080/discordbridge",
+    "SendAdminPrint": false,
+    "SendMapChange": true,
+    "SendPlayerAllChat": true,
+    "SendPlayerJoin": true,
+    "SendPlayerLeave": true,
+    "SendRoundEnd": true,
+    "SendRoundPregame": false,
+    "SendRoundStart": true,
+    "SendRoundWarmup": false,
+    "ServerIdentifier": "specgorge",
+    "SpamMinIntervall": 0.5,
+    "__Version": "3.0.0"
+}

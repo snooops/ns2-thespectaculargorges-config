@@ -1,0 +1,38 @@
+{
+    "AllowSpectating": true,
+    "BlockMessage": "You don't fit to the Hive stats limits on this server:",
+    "CheckKD": {
+        "Enable": false,
+        "Max": 3,
+        "Min": 0.5
+    },
+    "CheckLevel": {
+        "Enable": false,
+        "Max": 0,
+        "Min": 20
+    },
+    "CheckPlayTime": {
+        "Enable": true,
+        "Max": 0,
+        "Min": 350,
+        "UseSteamPlayTime": true
+    },
+    "CheckSkillRating": {
+        "Enable": true,
+        "Max": 0,
+        "Min": 1000
+    },
+    "CheckWL": {
+        "Enable": false,
+        "Max": 3,
+        "Min": 1
+    },
+    "InformMessage": "This server is Hive stats restricted",
+    "Kick": true,
+    "KickMessage": "You will be kicked in %s seconds",
+    "Kicktime": 60,
+    "ShowInform": true,
+    "ShowSwitchAtBlock": false,
+    "WaitMessage": "Please wait while your Hive stats are getting fetched",
+    "__Version": "1.0"
+}

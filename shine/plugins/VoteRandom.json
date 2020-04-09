@@ -1,0 +1,94 @@
+{
+    "ApplyToBots": false,
+    "AutoShuffleAtRoundStart": false,
+    "BalanceMode": "HIVE",
+    "BlockAfterRoundTimeInMinutes": 0,
+    "BlockBotsAfterShuffle": true,
+    "BlockUntilSecondsIntoMap": 0,
+    "DisplayStandardDeviations": false,
+    "EndOfRoundShuffleDelayInSeconds": 30,
+    "FallbackMode": "KDR",
+    "HighlightTeamSwaps": false,
+    "IgnoreCommanders": true,
+    "IgnoreSpectators": false,
+    "LogLevel": "INFO",
+    "NotifyOnVote": true,
+    "ReconnectLogTimeInSeconds": 0,
+    "RemoveAFKPlayersFromTeams": true,
+    "StatsRecording": {
+        "MinMinutesOnTeam": 5,
+        "RookieBoundary": 7500,
+        "RookieStat": "Score"
+    },
+    "TeamPreferences": {
+        "CostWeighting": "MEDIUM",
+        "FriendGroupInviteCooldownInSeconds": 15,
+        "FriendGroupInviteDurationInSeconds": 15,
+        "MaxFriendGroupSize": 4,
+        "MaxHistoryRounds": 5,
+        "MinRoundLengthToRecordInSeconds": 300,
+        "PlayWithFriendsWeighting": "MEDIUM"
+    },
+    "UseLocalFileStats": false,
+    "VoteConstraints": {
+        "InGame": {
+            "FractionNeededToPass": 0.75,
+            "MinAverageDiffToAllowShuffle": 100,
+            "MinPlayerFractionToConstrainSkillDiff": 0.9,
+            "MinPlayers": 10,
+            "MinStandardDeviationDiffToAllowShuffle": 0,
+            "StartOfRoundGraceTimeInSeconds": 0
+        },
+        "PreGame": {
+            "FractionNeededToPass": 0.75,
+            "MinAverageDiffToAllowShuffle": 75,
+            "MinPlayerFractionToConstrainSkillDiff": 0.9,
+            "MinPlayers": 10,
+            "MinStandardDeviationDiffToAllowShuffle": 0
+        }
+    },
+    "VoteCooldownInMinutes": 15,
+    "VotePassActions": {
+        "InGame": {
+            "DurationInMinutes": 15,
+            "EnforcementDurationType": "TIME",
+            "EnforcementPolicy": [
+                {
+                    "MaxPlayers": 0,
+                    "MinPlayers": 0,
+                    "Type": "ASSIGN_PLAYERS"
+                },
+                {
+                    "MaxPlayers": 0,
+                    "MinPlayers": 0,
+                    "Type": "BLOCK_TEAMS"
+                }
+            ],
+            "ShufflePolicy": "INSTANT"
+        },
+        "PreGame": {
+            "DurationInMinutes": 15,
+            "EnforcementDurationType": "TIME",
+            "EnforcementPolicy": [
+                {
+                    "MaxPlayers": 0,
+                    "MinPlayers": 0,
+                    "Type": "ASSIGN_PLAYERS"
+                },
+                {
+                    "MaxPlayers": 0,
+                    "MinPlayers": 0,
+                    "Type": "BLOCK_TEAMS"
+                }
+            ],
+            "ShufflePolicy": "INSTANT"
+        }
+    },
+    "VoteSettings": {
+        "AFKTimeInSeconds": 60,
+        "ConsiderAFKPlayersInVotes": true,
+        "ConsiderSpectatorsInVotes": true
+    },
+    "VoteTimeoutInSeconds": 60,
+    "__Version": "2.8"
+}

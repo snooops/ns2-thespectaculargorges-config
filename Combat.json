@@ -1,0 +1,9 @@
+{
+  "ModDefaultWinner":2,
+  "ModFillerBots":12,
+  "ModARCSpawnEnabled":true,
+  "ModCompMode":false,
+  "ModPowerPointsTakeDamage":true,
+  "ModTimeLimit":1500,
+  "ModAllowOvertime":true
+}

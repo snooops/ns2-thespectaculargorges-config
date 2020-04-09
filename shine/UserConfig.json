@@ -1,0 +1,29 @@
+{
+    "Groups": {
+        "admins": {
+            "Commands": [ "sh_changemap", "sh_reset", "sh_say" ],
+            "Immunity": 100,
+            "IsBlacklist": false
+        },
+        "mods": {
+            "Commands": [ "sh_ban", "sh_reset" ],
+            "Immunity": 10,
+            "IsBlacklist": false
+        },
+        "specgorges": {
+            "Commands": [ "sh_afk_partial" ],
+            "Immunity": 20,
+            "IsBlacklist": false
+        },
+		"vip": {
+			"Commands": [ "sh_afk_partial" ],
+            "Immunity": 50,
+            "IsBlacklist": false
+		}
+    },
+    "Users": {
+        "433859": {
+            "Group": "admins"
+        }
+    }
+}

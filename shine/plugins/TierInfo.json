@@ -1,0 +1,15 @@
+{
+    "AntiSmurfSkillRange": 450,
+    "EnableAntiSmurf": true,
+    "EnableBanCount": true,
+    "EnableCountry": true,
+    "EnableEncryptionIps": true,
+    "EnableScorePerHour": true,
+    "EnableTeamAvgSkill": true,
+    "EnableTeamAvgSkillPregame": true,
+    "EnableTierSkill": true,
+    "EnableTime": true,
+    "EnableTimeComm": true,
+    "EnableTimeTeam": true,
+    "__Version": "1.0"
+}
