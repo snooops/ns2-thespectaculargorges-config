@@ -1,9 +1,9 @@
 {
     "Groups": {
         "admins": {
-            "Commands": [ "sh_changemap", "sh_reset", "sh_say" ],
+            "Commands": [ ],
             "Immunity": 100,
-            "IsBlacklist": false
+            "IsBlacklist": true
         },
         "mods": {
             "Commands": [ "sh_ban", "sh_reset" ],
