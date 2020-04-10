@@ -12,13 +12,13 @@
         "Min": 20
     },
     "CheckPlayTime": {
-        "Enable": true,
+        "Enable": false,
         "Max": 0,
         "Min": 350,
         "UseSteamPlayTime": true
     },
     "CheckSkillRating": {
-        "Enable": true,
+        "Enable": false,
         "Max": 0,
         "Min": 1000
     },
