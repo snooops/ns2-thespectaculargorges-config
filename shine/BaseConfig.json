@@ -16,7 +16,7 @@
     "DateFormat":"dd-mm-yyyy",
     "MaxCommandsPerSecond":3,
     "EnableLogging":true,
-    "DebugLogging":false,
+    "DebugLogging":true,
     "GetUsersWithPOST":false,
     "ReportErrors":true,
     "UserRetrieveArguments":[],
