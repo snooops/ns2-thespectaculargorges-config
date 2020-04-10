@@ -7,7 +7,7 @@
 -config_path	"/home/ns2/config"
 -logdir		"/home/ns2/logs"
 -map			"ns2_summit"
--mods	 	"334982d2 706d242 c6fbbb0 235ee3a6 b7149f9 358e0fb5 33c898b2 72c5fd4e 4384B7FE 692d1e72 5c416ce7 520abdce 744eb9f4"	
+-mods	 	"334982d2 706d242 c6fbbb0 235ee3a6 b7149f9 358e0fb5 33c898b2 72c5fd4e 4384B7FE 692d1e72 5c416ce7 744eb9f4"	
 -webadmin	
 -webdomain	"127.0.0.1"
 -webport		"27080"
