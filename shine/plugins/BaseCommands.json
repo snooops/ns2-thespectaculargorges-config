@@ -5,7 +5,7 @@
     "AllTalkSpectator": true,
     "CommanderBotVoteDelayInSeconds": 300,
     "CustomVotePrefix": "POLL: ",
-    "DisableLuaRun": true,
+    "DisableLuaRun": false,
     "EjectVotesNeeded": [
         {
             "FractionOfTeamToPass": 0.4
